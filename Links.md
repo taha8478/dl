@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-13 19:08 IR
+- 📱 [v2rayNG_2.1.7-fdroid_arm64-v8a.apk](https://github.com/taha8478/dl/raw/main/dl/v2rayNG_2.1.7-fdroid_arm64-v8a.apk) `26.8MB`
+
+---
+
+
 ### 📅 2026-05-12 21:05 IR
 - 📱 [v2rayNG_2.1.7-fdroid_universal.apk](https://github.com/taha8478/dl/raw/main/dl/v2rayNG_2.1.7-fdroid_universal.apk) `61.9MB`
 
