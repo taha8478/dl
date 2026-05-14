@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 18:29 IR
+- 🗜️ [Release_x64.zip](https://github.com/taha8478/dl/raw/main/dl/Release_x64.zip) `177KB`
+
+---
+
+
 ### 📅 2026-05-14 16:34 IR
 - 📱 [ShirOKhorshid-2026.05.14.apk](https://github.com/taha8478/dl/raw/main/dl/ShirOKhorshid-2026.05.14.apk) `23.9MB`
 
