@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-19 23:21 IR
+- 📥 [SNI-Spoofing_by_patterniha_v1.rar](https://github.com/taha8478/dl/raw/main/dl/SNI-Spoofing_by_patterniha_v1.rar) `9.8MB`
+
+---
+
+
 ### 📅 2026-05-14 18:29 IR
 - 🗜️ [Release_x64.zip](https://github.com/taha8478/dl/raw/main/dl/Release_x64.zip) `177KB`
 
